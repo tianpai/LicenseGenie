@@ -1,0 +1,35 @@
+{
+  "name": "licensegenie",
+  "version": "1.0.0",
+  "description": "LicenseGenie is a command-line tool to generate open-source licenses.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "license",
+    "open-source",
+    "license-generator",
+    "cli",
+    "command-line",
+    "MIT",
+    "Apache",
+    "GPL",
+    "software-license",
+    "dev-tool",
+    "nodejs",
+    "project-setup",
+    "template",
+    "legal",
+    "copyright"
+  ],
+  "author": "Tianpai Z",
+  "license": "SEE LICENSE IN README.md",
+  "dependencies": {
+    "fs.promises": "^0.1.2",
+    "inquirer": "^9.2.10",
+    "path": "^0.12.7",
+    "url": "^0.11.1"
+  }
+}
